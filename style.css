@@ -1,0 +1,74 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+/*Styles for containers*/
+
+header {
+background-color: #cbe21d;
+padding-top: 10px;
+}
+
+.box-h1 {
+  margin-top: 20px;
+  margin-bottom: -10px;
+}
+
+.box-h3 {
+  padding-bottom: 20px;
+}
+
+.box-para {
+  padding-left: 50px;
+  padding-right: 60px;
+}
+
+footer {
+  height: 50px;
+  background-color: #cbe21d;
+  padding-top: 10px;
+  margin-top: 10px;
+}
+
+/*Styles for text elements*/
+
+h1 {
+  font-family: Century Gothic;
+  font-size: 36px;
+  color: #222296
+}
+
+h2 {
+  font-family: Century Gothic;
+  font-size: 24px;
+  color: #222296;
+}
+
+h3 {
+  font-family: Century Gothic;
+  font-size: 18px;
+  color: darkcyan
+}
+
+p {
+  font-family: optima;
+  font-size: 16px;
+  color: black;
+}
+
+.align-center {
+  text-align: center;
+}
+
+/*Styles for anchor elements*/
+
+a {
+  font-family: Century Gothic;
+  font-size: 16px;
+}
+
+a:link {color: 222296;}
+a:visited {color: purple;}
+a:hover {color: darkcyan;}
+a:active {color: mintcream;}
